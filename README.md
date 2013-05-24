@@ -1,4 +1,3 @@
-
 ## PDF Reader Core for iOS
 
 ### Introduction
@@ -19,7 +18,15 @@ reading/viewing in your app(s).
 ![iPod Page](http://i.imgur.com/wxC1B.png)<p></p>
 ![iPod Thumbs](http://i.imgur.com/4VNyQ.png)<p></p>
 ![iPad Page](http://i.imgur.com/T6nfI.png)<p></p>
-![iPad Thumbs](http://i.imgur.com/wxQRC.png)
+![iPad Thumbs](http://i.imgur.com/wxQRC.png)<p></p>
+
+
+<!-- MacBuildServer Install Button -->
+<div class="macbuildserver-block">
+    <a class="macbuildserver-button" href="http://macbuildserver.com/project/github/build/?xcode_project=Reader.xcodeproj&amp;target=Reader&amp;repo_url=https%3A%2F%2Fgithub.com%2Fvfr%2FReader&amp;build_conf=Release" target="_blank"><img src="http://com.macbuildserver.github.s3-website-us-east-1.amazonaws.com/button_up.png"/></a><br/><sup><a href="http://macbuildserver.com/github/opensource/" target="_blank">by MacBuildServer</a></sup>
+</div>
+<!-- MacBuildServer Install Button -->
+
 
 After launching the sample app, tap on the left hand side of the
 screen to go back a page. Tap on the right hand side to go to the
